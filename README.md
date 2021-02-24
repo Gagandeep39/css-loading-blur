@@ -7,7 +7,7 @@
 
 ## Deployment
 
-- Checkout deployment at <https://gagandeep39.github.io/css-loading-blur />
+- Checkout deployment at https://gagandeep39.github.io/css-loading-blur
 
 ## Description
 
